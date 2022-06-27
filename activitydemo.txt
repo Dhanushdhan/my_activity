@@ -1,0 +1,2 @@
+sum of two number
+if sum=1.i=1
