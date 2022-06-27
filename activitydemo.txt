@@ -1,2 +1,9 @@
 sum of two number
 if sum=1.i=1
+4th_sem_cs
+oop lang
+pop lang
+
+git commands:
+git status
+git add.
